@@ -1,25 +1,26 @@
 {
   "files": {
-    "main.css": "/myAppReact/static/css/main.a1139ae2.chunk.css",
-    "main.js": "/myAppReact/static/js/main.11d51e45.chunk.js",
-    "main.js.map": "/myAppReact/static/js/main.11d51e45.chunk.js.map",
-    "runtime-main.js": "/myAppReact/static/js/runtime-main.47430700.js",
-    "runtime-main.js.map": "/myAppReact/static/js/runtime-main.47430700.js.map",
+    "main.css": "/myAppReact/static/css/main.4980bf84.chunk.css",
+    "main.js": "/myAppReact/static/js/main.d450266a.chunk.js",
+    "main.js.map": "/myAppReact/static/js/main.d450266a.chunk.js.map",
+    "runtime-main.js": "/myAppReact/static/js/runtime-main.14046570.js",
+    "runtime-main.js.map": "/myAppReact/static/js/runtime-main.14046570.js.map",
     "static/css/2.150d169a.chunk.css": "/myAppReact/static/css/2.150d169a.chunk.css",
-    "static/js/2.e2bb63d2.chunk.js": "/myAppReact/static/js/2.e2bb63d2.chunk.js",
-    "static/js/2.e2bb63d2.chunk.js.map": "/myAppReact/static/js/2.e2bb63d2.chunk.js.map",
-    "static/js/3.7c55818e.chunk.js": "/myAppReact/static/js/3.7c55818e.chunk.js",
-    "static/js/3.7c55818e.chunk.js.map": "/myAppReact/static/js/3.7c55818e.chunk.js.map",
+    "static/js/2.c86c28a0.chunk.js": "/myAppReact/static/js/2.c86c28a0.chunk.js",
+    "static/js/2.c86c28a0.chunk.js.map": "/myAppReact/static/js/2.c86c28a0.chunk.js.map",
+    "static/js/3.99b00909.chunk.js": "/myAppReact/static/js/3.99b00909.chunk.js",
+    "static/js/3.99b00909.chunk.js.map": "/myAppReact/static/js/3.99b00909.chunk.js.map",
     "index.html": "/myAppReact/index.html",
     "static/css/2.150d169a.chunk.css.map": "/myAppReact/static/css/2.150d169a.chunk.css.map",
-    "static/css/main.a1139ae2.chunk.css.map": "/myAppReact/static/css/main.a1139ae2.chunk.css.map",
-    "static/js/2.e2bb63d2.chunk.js.LICENSE.txt": "/myAppReact/static/js/2.e2bb63d2.chunk.js.LICENSE.txt"
+    "static/css/main.4980bf84.chunk.css.map": "/myAppReact/static/css/main.4980bf84.chunk.css.map",
+    "static/js/2.c86c28a0.chunk.js.LICENSE.txt": "/myAppReact/static/js/2.c86c28a0.chunk.js.LICENSE.txt",
+    "static/media/ava.c4f0f2e0.gif": "/myAppReact/static/media/ava.c4f0f2e0.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.47430700.js",
+    "static/js/runtime-main.14046570.js",
     "static/css/2.150d169a.chunk.css",
-    "static/js/2.e2bb63d2.chunk.js",
-    "static/css/main.a1139ae2.chunk.css",
-    "static/js/main.11d51e45.chunk.js"
+    "static/js/2.c86c28a0.chunk.js",
+    "static/css/main.4980bf84.chunk.css",
+    "static/js/main.d450266a.chunk.js"
   ]
 }
